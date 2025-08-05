@@ -1,0 +1,14 @@
+C:\Users\Jack\Desktop\LPR381\OptiSolve_Styled_UI_Project\OptiSolve_Styled\bin\Debug\net6.0-windows\OptiSolve.exe
+C:\Users\Jack\Desktop\LPR381\OptiSolve_Styled_UI_Project\OptiSolve_Styled\bin\Debug\net6.0-windows\OptiSolve.deps.json
+C:\Users\Jack\Desktop\LPR381\OptiSolve_Styled_UI_Project\OptiSolve_Styled\bin\Debug\net6.0-windows\OptiSolve.runtimeconfig.json
+C:\Users\Jack\Desktop\LPR381\OptiSolve_Styled_UI_Project\OptiSolve_Styled\bin\Debug\net6.0-windows\OptiSolve.dll
+C:\Users\Jack\Desktop\LPR381\OptiSolve_Styled_UI_Project\OptiSolve_Styled\bin\Debug\net6.0-windows\OptiSolve.pdb
+C:\Users\Jack\Desktop\LPR381\OptiSolve_Styled_UI_Project\OptiSolve_Styled\obj\Debug\net6.0-windows\OptiSolve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\Desktop\LPR381\OptiSolve_Styled_UI_Project\OptiSolve_Styled\obj\Debug\net6.0-windows\OptiSolve.AssemblyInfoInputs.cache
+C:\Users\Jack\Desktop\LPR381\OptiSolve_Styled_UI_Project\OptiSolve_Styled\obj\Debug\net6.0-windows\OptiSolve.AssemblyInfo.cs
+C:\Users\Jack\Desktop\LPR381\OptiSolve_Styled_UI_Project\OptiSolve_Styled\obj\Debug\net6.0-windows\OptiSolve.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\LPR381\OptiSolve_Styled_UI_Project\OptiSolve_Styled\obj\Debug\net6.0-windows\OptiSolve.dll
+C:\Users\Jack\Desktop\LPR381\OptiSolve_Styled_UI_Project\OptiSolve_Styled\obj\Debug\net6.0-windows\refint\OptiSolve.dll
+C:\Users\Jack\Desktop\LPR381\OptiSolve_Styled_UI_Project\OptiSolve_Styled\obj\Debug\net6.0-windows\OptiSolve.pdb
+C:\Users\Jack\Desktop\LPR381\OptiSolve_Styled_UI_Project\OptiSolve_Styled\obj\Debug\net6.0-windows\OptiSolve.genruntimeconfig.cache
+C:\Users\Jack\Desktop\LPR381\OptiSolve_Styled_UI_Project\OptiSolve_Styled\obj\Debug\net6.0-windows\ref\OptiSolve.dll
